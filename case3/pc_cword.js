@@ -7,8 +7,8 @@
 
    Crossword Puzzle Script
    
-   Author: 
-   Date:   
+   Author: Rami Hadey
+   Date:  4/1/20
    
    Global Variables
    ================
@@ -49,6 +49,10 @@
 
 */
 
+//step 7
+function formatPuzzle(puzzleLetter){
+
+}
 
 
 
